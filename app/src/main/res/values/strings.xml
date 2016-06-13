@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Iron man wallpaper TBR</string>
+
+    <string name="id_app_in_admob" translatable="false">ca-app-pub-9590734892113562~2698908137</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-9590734892113562/5652374536</string>
+    <string name="interstitial_ad_unit_id" translatable="false">ca-app-pub-9590734892113562/7129107735</string>
+
+    <string name="set_wallpaper">Set</string>
+    <string name="successful_set_wallpaper">Wallpapers successfully installed!</string>
+</resources>

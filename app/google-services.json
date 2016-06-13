@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1013690734664",
+    "firebase_url": "https://iron-man-wallpaper-tbr.firebaseio.com",
+    "project_id": "iron-man-wallpaper-tbr",
+    "storage_bucket": "iron-man-wallpaper-tbr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013690734664:android:83267f8065d54b59",
+        "android_client_info": {
+          "package_name": "com.example.vasiliy.iron_man_wallpaper_tbr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013690734664-hsf6n1d0n74lcbdfe11ennni0585abka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxNSargSVyXxBK8YGVgml9URFUuSTnMkY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
