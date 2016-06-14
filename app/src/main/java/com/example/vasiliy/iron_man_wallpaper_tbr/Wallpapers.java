@@ -34,8 +34,7 @@ public class Wallpapers {
             R.drawable.iron_man_29,
             R.drawable.iron_man_30,
             R.drawable.iron_man_31,
-            R.drawable.iron_man_32,
-            R.drawable.iron_man_33
+            R.drawable.iron_man_32
     };
 
 }
