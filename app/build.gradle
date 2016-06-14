@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.3"
 
     defaultConfig {
-        applicationId "com.example.vasiliy.iron_man_wallpaper_tbr"
+        applicationId "com.aleksandr.nikitin.iron_man_wallpaper_tbr"
         minSdkVersion 10
         targetSdkVersion 23
         versionCode 1
@@ -13,7 +13,8 @@ android {
     }
     buildTypes {
         release {
-            minifyEnabled false
+            minifyEnabled true
+            shrinkResources true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
